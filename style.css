@@ -1,0 +1,28 @@
+.imager {
+    display : flex;
+    justify-content: space-around;
+    max-height: 250px;
+   
+}
+
+img {
+ 
+    aspect-ratio: 19/25;
+    
+   
+}
+
+.addBorder {
+    border : 2px solid red;
+}
+
+.output , .scoreBoard {
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    margin : 18px;
+}
+
+h1 {
+    text-align: center;
+}
